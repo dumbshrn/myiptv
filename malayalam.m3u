@@ -43,10 +43,6 @@ https://mumbai-edge.smartplaytv.in/PowerVision/index.m3u8
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-name="Amrita TV - Backup 1" group-title="Malayalam Stream Backups",Amrita TV - Backup 1
 https://ddash74r36xqp.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="ASIANET.HD.in" tvg-name="Asianet - Backup 1 (360p)" group-title="Malayalam Stream Backups",Asianet - Backup 1 (360p)
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b696000.m3u8
-#EXTINF:-1 tvg-id="AsianetMovies.in" tvg-name="Asianet Movies - Backup 1" group-title="Malayalam Stream Backups",Asianet Movies - Backup 1
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Asianet.News.in" tvg-name="Asianet News - Backup 1" group-title="Malayalam Stream Backups",Asianet News - Backup 1
 https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
 #EXTINF:-1 tvg-id="Asianet.News.in" tvg-name="Asianet News - Backup 2" group-title="Malayalam Stream Backups",Asianet News - Backup 2
