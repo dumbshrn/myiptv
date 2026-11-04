@@ -1,95 +1,75 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/india.xml"
-#EXTINF:-1 tvg-chno="826" tvg-id="AsianetTV.in" tvg-name="Asianet" group-title="Airtel Malayalam",826 - Asianet
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dumbshrn/myiptv/main/malayalam.xml"
+#EXTINF:-1 tvg-chno="826" tvg-id="ASIANET.HD.in" tvg-name="Asianet HD" tvg-logo="https://i.imgur.com/Wv7MOzg.png" group-title="Airtel Malayalam",826 - Asianet HD (1080p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 tvg-chno="827" tvg-id="AsianetHD.in" tvg-name="Asianet HD" group-title="Airtel Malayalam",827 - Asianet HD
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 tvg-chno="828" tvg-id="SuryaTV.in" tvg-name="Surya TV" group-title="Airtel Malayalam",828 - Surya TV
+#EXTINF:-1 tvg-chno="828" tvg-id="Surya.HD.in" tvg-name="Surya HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png" group-title="Airtel Malayalam",828 - Sun Surya HD (1080p)
 https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8
-#EXTINF:-1 tvg-chno="829" tvg-id="SuryaTVHD.in" tvg-name="Surya HD" group-title="Airtel Malayalam",829 - Surya HD
-https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8
-#EXTINF:-1 tvg-chno="830" tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" group-title="Airtel Malayalam",830 - Mazhavil Manorama
-https://mumt03.tangotv.in/Dsly5z3HMAZHAVILMANORAMAINT/index.m3u8
-#EXTINF:-1 tvg-chno="831" tvg-id="MazhavilManoramaHD.in" tvg-name="Mazhavil Manorama HD" group-title="Airtel Malayalam",831 - Mazhavil Manorama HD
+#EXTINF:-1 tvg-chno="830" tvg-id="MAZHAVIL.MANORAMA.HD.in" tvg-name="Mazhavil Manorama HD" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Airtel Malayalam",830 - Mazhavil Manorama HD (1080p)
 https://mmtv-vglivessai.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/f8a0827f-030f-4a0d-b7e5-338996c09a5b/index.m3u8
-#EXTINF:-1 tvg-chno="834" tvg-id="KairaliTV.in" tvg-name="Kairali TV" group-title="Airtel Malayalam",834 - Kairali TV
-https://streams.tangotv.in/KAIRALI/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-chno="836" tvg-id="AmritaTV.in" tvg-name="Amrita TV" group-title="Airtel Malayalam",836 - Amrita TV
-https://mumt07.tangotv.in/zHjX9OFlAMRITATV/index.m3u8
-#EXTINF:-1 tvg-chno="837" tvg-id="KairaliWE.in" tvg-name="Kairali WE" group-title="Airtel Malayalam",837 - Kairali WE
-https://streams.tangotv.in/WETV/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-chno="838" tvg-id="JanamTV.in" tvg-name="Janam TV" group-title="Airtel Malayalam",838 - Janam TV
-https://mumt03.tangotv.in/Dsly5z3HJANAMTV/index.m3u8
-#EXTINF:-1 tvg-chno="839" tvg-id="KaumudyTV.in" tvg-name="Kaumudy TV" group-title="Airtel Malayalam",839 - Kaumudy TV
-https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="843" tvg-id="AsianetMovies.in" tvg-name="Asianet Movies" group-title="Airtel Malayalam",843 - Asianet Movies
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 tvg-chno="849" tvg-id="JaiHindTV.in" tvg-name="Jai Hind" group-title="Airtel Malayalam",849 - Jai Hind
-https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8
-#EXTINF:-1 tvg-chno="850" tvg-id="MediaOne.in" tvg-name="Media One" group-title="Airtel Malayalam",850 - Media One
-https://streams.tangotv.in/MEDIAONETV/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-chno="851" tvg-id="ManoramaNews.in" tvg-name="Manorama News" group-title="Airtel Malayalam",851 - Manorama News
-https://streams.tangotv.in/MANORAMANEWSNORTH/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-chno="852" tvg-id="AsianetNews.in" tvg-name="Asianet News" group-title="Airtel Malayalam",852 - Asianet News
-https://streams.tangotv.in/ASIANETNEWS/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-chno="853" tvg-id="MathrubhumiNews.in" tvg-name="Mathrubhumi News" group-title="Airtel Malayalam",853 - Mathrubhumi News
+#EXTINF:-1 tvg-chno="850" tvg-id="Media.One.TV.in" tvg-name="Media One" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MEDIA_ONE/images/LOGO_HD/image.png" group-title="Airtel Malayalam",850 - Media One (720p)
+https://cdn.pishow.tv/ott/live/1481/master.m3u8
+#EXTINF:-1 tvg-chno="851" tvg-id="Manorama.News.in" tvg-name="Manorama News" tvg-logo="https://i.imgur.com/adjRrVx.png" group-title="Airtel Malayalam",851 - Manorama News (1080p)
+https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
+#EXTINF:-1 tvg-chno="852" tvg-id="Asianet.News.in" tvg-name="Asianet News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_NEWS/images/LOGO_HD/image.png" group-title="Airtel Malayalam",852 - Asianet News (1080p)
+https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
+#EXTINF:-1 tvg-chno="853" tvg-id="Mathrubhumi.News.in" tvg-name="Mathrubhumi News" tvg-logo="https://i.imgur.com/diQftzP.png" group-title="Airtel Malayalam",853 - Mathrubhumi News (576p)
 https://streams.tangotv.in/MATHRUBHUMINEWS/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-chno="854" tvg-id="KairaliNews.in" tvg-name="Kairali News" group-title="Airtel Malayalam",854 - Kairali News
-https://mumt01.tangotv.in/O5aw8Zn3KAIRALINEWS/index.m3u8
-#EXTINF:-1 tvg-chno="855" tvg-id="News18Kerala.in" tvg-name="News 18 Kerala" group-title="Airtel Malayalam",855 - News 18 Kerala
+#EXTINF:-1 tvg-chno="854" tvg-id="Kairali.News.in" tvg-name="Kairali News" tvg-logo="https://dtil.tmsimg.com/assets/s143246_ld_h15_aa.png?lock=720x540" group-title="Airtel Malayalam",854 - Kairali News (720p)
+https://cdn.pishow.tv/ott/live/1469/master.m3u8
+#EXTINF:-1 tvg-chno="855" tvg-id="NEWS18.KERALA.in" tvg-name="News18 Kerala" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_KERALA/images/LOGO_HD/image.png" group-title="Airtel Malayalam",855 - News18 Kerala (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-chno="856" tvg-id="RajNewsMalayalam.in" tvg-name="Raj News Malayalam" group-title="Airtel Malayalam",856 - Raj News Malayalam
+#EXTINF:-1 tvg-chno="856" tvg-id="Raj.News.Malayalam.in" tvg-name="Raj News Malayalam" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_MALAYALAM/images/LOGO_HD/image.png" group-title="Airtel Malayalam",856 - Raj News Malayalam (576p)
 https://mumt04.tangotv.in/m18aqlK4RAJNEWSMALAYALAM/index.m3u8
-#EXTINF:-1 tvg-chno="857" tvg-id="TwentyFour.in" tvg-name="Twenty Four" group-title="Airtel Malayalam",857 - Twenty Four
+#EXTINF:-1 tvg-chno="857" tvg-id="Twenty.Four.News.in" tvg-name="Twenty Four" tvg-logo="https://i.imgur.com/" group-title="Airtel Malayalam",857 - Twenty Four (576p)
 https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
-#EXTINF:-1 tvg-chno="865" tvg-id="RajMusixMalayalam.in" tvg-name="Raj Musix Malayalam" group-title="Airtel Malayalam",865 - Raj Musix Malayalam
-https://mumt04.tangotv.in/m18aqlK4RAJMUSIXMALAYALAM/index.m3u8
-#EXTINF:-1 tvg-chno="866" tvg-id="DarshanaTV.in" tvg-name="Darshana TV" group-title="Airtel Malayalam",866 - Darshana TV
+#EXTINF:-1 tvg-chno="865" tvg-id="RAJ.MUSIX.MALAYALAM.in" tvg-name="Raj Musix Malayalam" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_MALAYALAM/images/LOGO_HD/image.png" group-title="Airtel Malayalam",865 - Raj Musix Malayalam (576p)
+https://cdn.pishow.tv/ott/live/1073/master.m3u8
+#EXTINF:-1 tvg-chno="866" tvg-id="DARSHANA.in" tvg-name="Darshana TV" tvg-logo="https://dtil.tmsimg.com/assets/s142774_ld_h15_aa.png?lock=720x540" group-title="Airtel Malayalam",866 - Darshana TV (576p)
 https://mumt04.tangotv.in/m18aqlK4DARSHANATV/index.m3u8
-#EXTINF:-1 tvg-chno="867" tvg-id="KITEVicters.in" tvg-name="KITE Victers" group-title="Airtel Malayalam",867 - KITE Victers
+#EXTINF:-1 tvg-chno="867" tvg-id="KITE.VICTERS.in" tvg-name="KITE Victers" tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="Airtel Malayalam",867 - KITE Victers (720p)
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-chno="868" tvg-id="SafariTV.in" tvg-name="Safari TV" group-title="Airtel Malayalam",868 - Safari TV
+#EXTINF:-1 tvg-chno="868" tvg-id="Safari.TV..in" tvg-name="Safari TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png" group-title="Airtel Malayalam",868 - Safari TV (576p)
 https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8
-#EXTINF:-1 tvg-chno="869" tvg-id="ShalomTV.in" tvg-name="Shalom" group-title="Airtel Malayalam",869 - Shalom
-https://mumt01.tangotv.in/O5aw8Zn3SHALOMTVINDIA/index.m3u8
-#EXTINF:-1 tvg-chno="870" tvg-id="GoodnessTV.in" tvg-name="Goodness TV" group-title="Airtel Malayalam",870 - Goodness TV
+#EXTINF:-1 tvg-chno="869" tvg-id="Shalom.in" tvg-name="Shalom" tvg-logo="https://dtil.tmsimg.com/assets/s143774_ld_h15_aa.png?lock=720x540" group-title="Airtel Malayalam",869 - Shalom (1080p)
+https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-chno="870" tvg-id="Goodness.in" tvg-name="Goodness TV" tvg-logo="https://dtil.tmsimg.com/assets/s143091_ld_h15_aa.png?lock=720x540" group-title="Airtel Malayalam",870 - Goodness TV (576p)
 https://mumt07.tangotv.in/zHjX9OFlGOODNESSTV/index.m3u8
-#EXTINF:-1 tvg-chno="871" tvg-id="DDMalayalam.in" tvg-name="DD Malayalam" group-title="Airtel Malayalam",871 - DD Malayalam
+#EXTINF:-1 tvg-chno="871" tvg-id="DD.Malayalam.in" tvg-name="DD Malayalam" tvg-logo="https://i.postimg.cc/BZjmjJJs/DD-Malayalam.png" group-title="Airtel Malayalam",871 - DD Malayalam (576p)
 https://fta.ektv.in/live/680/master.m3u8
-#EXTINF:-1 tvg-chno="873" tvg-id="PowerVision.in" tvg-name="Powervision" group-title="Airtel Malayalam",873 - Powervision
-https://mumt07.tangotv.in/zHjX9OFlPOWERVISION/index.m3u8
+#EXTINF:-1 tvg-chno="873" tvg-id="Powervision.TV.in" tvg-name="Powervision" tvg-logo="https://dtil.tmsimg.com/assets/s143670_ld_h15_aa.png?lock=720x540" group-title="Airtel Malayalam",873 - Powervision (720p)
+https://mumbai-edge.smartplaytv.in/PowerVision/index.m3u8
 
 # Additional public-directory alternatives (backup entries; no Airtel LCN assigned)
-#EXTINF:-1 tvg-id="TwentyFour.in" tvg-name="Twenty Four (24 News) - Backup 1" group-title="Malayalam Stream Backups",Twenty Four (24 News) - Backup 1
+#EXTINF:-1 tvg-id="Twenty.Four.News.in" tvg-name="Twenty Four (24 News) - Backup 1" group-title="Malayalam Stream Backups",Twenty Four (24 News) - Backup 1
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-name="Amrita TV - Backup 1" group-title="Malayalam Stream Backups",Amrita TV - Backup 1
 https://ddash74r36xqp.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="AsianetTV.in" tvg-name="Asianet - Backup 1 (360p)" group-title="Malayalam Stream Backups",Asianet - Backup 1 (360p)
+#EXTINF:-1 tvg-id="ASIANET.HD.in" tvg-name="Asianet - Backup 1 (360p)" group-title="Malayalam Stream Backups",Asianet - Backup 1 (360p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b696000.m3u8
 #EXTINF:-1 tvg-id="AsianetMovies.in" tvg-name="Asianet Movies - Backup 1" group-title="Malayalam Stream Backups",Asianet Movies - Backup 1
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News - Backup 1" group-title="Malayalam Stream Backups",Asianet News - Backup 1
+#EXTINF:-1 tvg-id="Asianet.News.in" tvg-name="Asianet News - Backup 1" group-title="Malayalam Stream Backups",Asianet News - Backup 1
 https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
-#EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News - Backup 2" group-title="Malayalam Stream Backups",Asianet News - Backup 2
+#EXTINF:-1 tvg-id="Asianet.News.in" tvg-name="Asianet News - Backup 2" group-title="Malayalam Stream Backups",Asianet News - Backup 2
 https://asianet-samsung.vgcdn.net/ptnr-monitoring/vglive-sk-906908/playlist.m3u8
-#EXTINF:-1 tvg-id="DarshanaTV.in" tvg-name="Darshana TV - Backup 1" group-title="Malayalam Stream Backups",Darshana TV - Backup 1
+#EXTINF:-1 tvg-id="DARSHANA.in" tvg-name="Darshana TV - Backup 1" group-title="Malayalam Stream Backups",Darshana TV - Backup 1
 https://cdn.pishow.tv/ott/live/1453/master.m3u8
-#EXTINF:-1 tvg-id="DDMalayalam.in" tvg-name="DD Malayalam - Backup 1" group-title="Malayalam Stream Backups",DD Malayalam - Backup 1
+#EXTINF:-1 tvg-id="DD.Malayalam.in" tvg-name="DD Malayalam - Backup 1" group-title="Malayalam Stream Backups",DD Malayalam - Backup 1
 https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
 #EXTINF:-1 tvg-id="JaiHindTV.in" tvg-name="Jai Hind - Backup 1" group-title="Malayalam Stream Backups",Jai Hind - Backup 1
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/JaihindTV.m3u8
 #EXTINF:-1 tvg-id="JanamTV.in" tvg-name="Janam TV - Backup 1" group-title="Malayalam Stream Backups",Janam TV - Backup 1
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
-#EXTINF:-1 tvg-id="KairaliNews.in" tvg-name="Kairali News - Backup 1" group-title="Malayalam Stream Backups",Kairali News - Backup 1
+#EXTINF:-1 tvg-id="Kairali.News.in" tvg-name="Kairali News - Backup 1" group-title="Malayalam Stream Backups",Kairali News - Backup 1
 https://cdn.pishow.tv/ott/live/1469/master.m3u8
 #EXTINF:-1 tvg-id="KairaliTV.in" tvg-name="Kairali TV - Backup 1" group-title="Malayalam Stream Backups",Kairali TV - Backup 1
 https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
 #EXTINF:-1 tvg-id="KairaliWE.in" tvg-name="Kairali WE - Backup 1" group-title="Malayalam Stream Backups",Kairali WE - Backup 1
 https://cdn.pishow.tv/ott/live/1530/master.m3u8
-#EXTINF:-1 tvg-id="ManoramaNews.in" tvg-name="Manorama News - Backup 1" group-title="Malayalam Stream Backups",Manorama News - Backup 1
+#EXTINF:-1 tvg-id="Manorama.News.in" tvg-name="Manorama News - Backup 1" group-title="Malayalam Stream Backups",Manorama News - Backup 1
 https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
-#EXTINF:-1 tvg-id="MathrubhumiNews.in" tvg-name="Mathrubhumi News - Backup 1" group-title="Malayalam Stream Backups",Mathrubhumi News - Backup 1
+#EXTINF:-1 tvg-id="Mathrubhumi.News.in" tvg-name="Mathrubhumi News - Backup 1" group-title="Malayalam Stream Backups",Mathrubhumi News - Backup 1
 https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama - Backup 1" group-title="Malayalam Stream Backups",Mazhavil Manorama - Backup 1
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
-#EXTINF:-1 tvg-id="MediaOne.in" tvg-name="Media One - Backup 1" group-title="Malayalam Stream Backups",Media One - Backup 1
+#EXTINF:-1 tvg-id="Media.One.TV.in" tvg-name="Media One - Backup 1" group-title="Malayalam Stream Backups",Media One - Backup 1
 https://cdn.pishow.tv/ott/live/1481/master.m3u8
