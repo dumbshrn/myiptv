@@ -9,7 +9,7 @@
   "kv_namespaces": [
     {
       "binding": "CACHE",
-      "id": "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
+      "id": "b78191d5ff174c64bb5c9eb75918a683"
     }
   ],
   "vars": {
