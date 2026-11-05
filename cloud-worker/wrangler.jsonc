@@ -1,0 +1,21 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "myiptv-cloud",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-11-05",
+  "observability": {
+    "enabled": true
+  },
+  "kv_namespaces": [
+    {
+      "binding": "CACHE",
+      "id": "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
+    }
+  ],
+  "vars": {
+    "SOURCE_M3U_URL": "",
+    "SOURCE_EPG_URL": "",
+    "M3U_CACHE_SECONDS": "180",
+    "EPG_CACHE_SECONDS": "900"
+  }
+}
